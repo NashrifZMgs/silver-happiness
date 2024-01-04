@@ -7,11 +7,8 @@ getgenv().gemCollector = false;
 --MISC
 getgenv().requestRedeemGift = false;
 
-
 --eggs
 getgenv().Eggy = false;
-getgenv().Eggtypes = {"Basic", "Farm", "Fantasy", "Wisdom", "Wicked", "Winged", "Buzz", "Sunny", "Industry", "Crystalized", "Swamp", "Mystical", "Sand", "Carnival", "Candy", "Devil"}
-
 
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
